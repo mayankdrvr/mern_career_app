@@ -26,7 +26,8 @@ Project Specifications-
 
 # Demo
 
-  ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/87348490/152381000-5f57b062-377c-48e2-acbc-ec0778422159.gif)
+ ![ezgif com-gif-maker](https://user-images.githubusercontent.com/87348490/221120879-1f888c6d-b1bf-4bd6-9848-b0f0bf7ff418.gif)
+
 
 ## Technologies Used
 
