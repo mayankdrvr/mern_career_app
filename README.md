@@ -85,7 +85,7 @@ Backend will run on localhost:5000
 
 - Open http://localhost:3000/ to find the project running in your browser.
 
-# Production Setup(Before Deployment)
+## Production Setup(Before Deployment)
 - Remove node_modules and build folder from client, server and root folders. Do not remove any package-lock.json files.
 - In root folder package.json file in "scripts" field, add the following key-value pairs
 ```bash
