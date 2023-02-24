@@ -42,9 +42,9 @@ Project Specifications-
 
 ## Google Lighthouse webpage perfomance report 
 
-The full report can be accessed at https://drive.google.com/file/d/1FjAHQKGxpaWNOnO-fvSuU2OLNjnIS3re/view?usp=sharing
+The full report can be accessed at [https://drive.google.com/file/d/1FjAHQKGxpaWNOnO-fvSuU2OLNjnIS3re/view?usp=sharing](https://drive.google.com/file/d/1befP1ZtqdOJGZm4kMvAuyeELcKwOyLmi/view?usp=sharing)
   
-![valueblog](https://user-images.githubusercontent.com/87348490/152341465-c7c99654-58b2-4da9-983a-435329e71771.png)
+![mern-career-app](https://user-images.githubusercontent.com/87348490/221112345-788130c5-a315-4ab2-b329-2687eae78ef2.png)
 
 ## Lessons Learned
 
