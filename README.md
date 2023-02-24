@@ -4,7 +4,7 @@
 Employmenmt seekers for all types of jobs in all sectors of the market nowadays have to apply on various online and offline job platforms like LinkedIn, Instahyre, AngelList(Wellfound), naukri.com, employee referrals, company career pages, employment exchanges(offices) etc. Everyone of us is a job seeker in some form or the other and to track these job applications becomes difficult and time consuming and one might miss the right opportunities in the process. There is an urgent need to streamline this data in a dedicated portal with simple and fast interface. This project attempts to solve this problem. 
 
 ## Technical Details 
-This is a user controlled full stack MERN employment interview record keeper web application. User has access to add, update & delete scheduled interview opportunities and track their status. This project is hosted on render.com
+This is a user controlled full stack MERN employment interview record keeper web application. User has access to add, update & delete scheduled interview opportunities and track their status. This project is hosted on render.com at https://mern-career-app.onrender.com/
 
 ```bash
 Register New User
