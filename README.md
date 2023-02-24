@@ -93,7 +93,7 @@ Backend will run on localhost:5000
  "install-client": "npm install --prefix client"
  "setup-production": "npm run install-client && npm run build-client && npm install"
 ```
-In root folder, run these command one by one in terminal-
+In root folder, run these commands one by one in terminal-
 ```
 npm run setup-production
 npm server
