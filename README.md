@@ -6,15 +6,17 @@ Employmenmt seekers for all types of jobs in all sectors of the market nowadays 
 ## Technical Details 
 This is a user controlled full stack MERN employment interview record keeper web application. User has access to add, update & delete scheduled interview opportunities and track their status. This project is hosted on render.com
 
+```bash
 Register New User
 Name- <Enter your desired username>
 Email- <Enter your email>
 Password- <Enter your desired password>
-
+```
+```bash
 Login Old User
 Email- <Enter your email>
 Password- <Enter your password>
-
+```
 Project Specifications-
 - Add Job section enables user to create their new scheduled interview data .
 - Stats section displays number of pending applications, interviews scheduled and declined interviews.
