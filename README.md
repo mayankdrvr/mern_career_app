@@ -46,23 +46,10 @@ The full report can be accessed at [https://drive.google.com/file/d/1FjAHQKGxpaW
   
 ![mern-career-app](https://user-images.githubusercontent.com/87348490/221112345-788130c5-a315-4ab2-b329-2687eae78ef2.png)
 
-## Lessons Learned
-
-- Used ReactQuill for text editing and adding images & video links to the content of the blog.
-- Designed routes using react-router-dom.
-- Learnt to test CRUD operations using Postman.
-- Deployed the full stack web app on Heroku using Git commands.
-
-## Known Issues
-
-- Rich Text Editor has text color & text background color feature working but the color palette is showing a single color throughout the palette. This is due to CSS color properties set in the root class which has taken precedence over the local properties.
-
 ## New Features to be added in Future
 
-- Allow guest users to create account.
-- Add search bar with filter to find a desired blog post.
-- Add tags to blogs and allow users to comment and upvote the blog post.
-- Add sharing options to share blog post on social media.
+- Send notifications to user email inbox.
+- Add more data visualization features.
 
 ## Authors
 
