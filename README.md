@@ -18,7 +18,7 @@ Email- <Enter your email>
 Password- <Enter your password>
 ```
 Project Specifications-
-- Add Job section enables user to create their new scheduled interview data .
+- Add Job section enables user to create their new scheduled interview data.
 - Stats section displays number of pending applications, interviews scheduled and declined interviews.
 - All Jobs section displays all data with options to search data by keyword, filter data according to status/type or sort data by name or date created.
 - All Jobs section allows user to update and delete scheduled interview data and track the status of old interviews.
