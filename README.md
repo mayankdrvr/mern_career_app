@@ -41,7 +41,7 @@ Project Specifications-
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://render.com" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/render/images/bb711e6b-3dc7-496f-b665-10558e88ceed.svg" alt="render" width="40" height="40"/> </a>
 
-## Google Lighthouse webpage perfomance report 
+## Google Lighthouse webpage performance report 
 
 The full report can be accessed at [https://drive.google.com/file/d/1FjAHQKGxpaWNOnO-fvSuU2OLNjnIS3re/view?usp=sharing](https://drive.google.com/file/d/1befP1ZtqdOJGZm4kMvAuyeELcKwOyLmi/view?usp=sharing)
   
