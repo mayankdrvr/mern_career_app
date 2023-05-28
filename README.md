@@ -93,10 +93,15 @@ Backend will run on localhost:5000
  "install-client": "npm install --prefix client"
  "setup-production": "npm run install-client && npm run build-client && npm install"
 ```
+Install nodemon & express by running these commands one by one in terminal-
+```
+npm install -g nodemon
+npm install express
+```
 In root folder, run these commands one by one in terminal-
 ```
 npm run setup-production
-npm server
+npm run server
 ```
 Check localhost:5000 to see the production ready app working on local system
 
