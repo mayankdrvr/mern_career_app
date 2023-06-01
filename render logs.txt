@@ -1,0 +1,201 @@
+May 28 07:23:32 AM  ==> Starting service with 'npm start'
+May 28 07:23:34 AM  
+May 28 07:23:34 AM  > server@1.0.0 start /opt/render/project/src/server
+May 28 07:23:34 AM  > nodemon server
+May 28 07:23:34 AM  
+May 28 07:23:35 AM  [nodemon] 2.0.20
+May 28 07:23:35 AM  [nodemon] to restart at any time, enter `rs`
+May 28 07:23:35 AM  [nodemon] watching path(s): *.*
+May 28 07:23:35 AM  [nodemon] watching extensions: js,mjs,json
+May 28 07:23:35 AM  [nodemon] starting `node server.js`
+May 28 07:23:38 AM  (node:77) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+May 28 07:23:38 AM  (Use `node --trace-deprecation ...` to show where the warning was created)
+May 28 07:23:40 AM  Server is listening on http://localhost:mern-career-app.onrender.com
+May 28 07:40:59 AM  ==> Starting service with 'npm start'
+May 28 07:41:01 AM  
+May 28 07:41:01 AM  > server@1.0.0 start /opt/render/project/src/server
+May 28 07:41:01 AM  > nodemon server
+May 28 07:41:01 AM  
+May 28 07:41:02 AM  [nodemon] 2.0.20
+May 28 07:41:02 AM  [nodemon] to restart at any time, enter `rs`
+May 28 07:41:02 AM  [nodemon] watching path(s): *.*
+May 28 07:41:02 AM  [nodemon] watching extensions: js,mjs,json
+May 28 07:41:02 AM  [nodemon] starting `node server.js`
+May 28 07:41:06 AM  (node:77) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+May 28 07:41:06 AM  (Use `node --trace-deprecation ...` to show where the warning was created)
+May 28 07:41:07 AM  Server is listening on http://localhost:mern-career-app.onrender.com
+May 28 03:07:26 PM  ==> Starting service with 'npm start'
+May 28 03:07:27 PM  
+May 28 03:07:27 PM  > server@1.0.0 start /opt/render/project/src/server
+May 28 03:07:27 PM  > nodemon server
+May 28 03:07:27 PM  
+May 28 03:07:28 PM  [nodemon] 2.0.20
+May 28 03:07:28 PM  [nodemon] to restart at any time, enter `rs`
+May 28 03:07:28 PM  [nodemon] watching path(s): *.*
+May 28 03:07:28 PM  [nodemon] watching extensions: js,mjs,json
+May 28 03:07:28 PM  [nodemon] starting `node server.js`
+May 28 03:07:32 PM  (node:78) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+May 28 03:07:32 PM  (Use `node --trace-deprecation ...` to show where the warning was created)
+May 28 03:07:33 PM  Server is listening on http://localhost:mern-career-app.onrender.com
+May 29 04:40:00 PM  ==> Starting service with 'npm start'
+May 29 04:40:01 PM  
+May 29 04:40:01 PM  > server@1.0.0 start /opt/render/project/src/server
+May 29 04:40:01 PM  > nodemon server
+May 29 04:40:01 PM  
+May 29 04:40:02 PM  [nodemon] 2.0.20
+May 29 04:40:02 PM  [nodemon] to restart at any time, enter `rs`
+May 29 04:40:02 PM  [nodemon] watching path(s): *.*
+May 29 04:40:02 PM  [nodemon] watching extensions: js,mjs,json
+May 29 04:40:02 PM  [nodemon] starting `node server.js`
+May 29 04:40:05 PM  (node:77) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+May 29 04:40:05 PM  (Use `node --trace-deprecation ...` to show where the warning was created)
+May 29 04:40:07 PM  Server is listening on http://localhost:mern-career-app.onrender.com
+May 29 07:04:36 PM  ==> Starting service with 'npm start'
+May 29 07:04:38 PM  
+May 29 07:04:38 PM  > server@1.0.0 start /opt/render/project/src/server
+May 29 07:04:38 PM  > nodemon server
+May 29 07:04:38 PM  
+May 29 07:04:39 PM  [nodemon] 2.0.20
+May 29 07:04:39 PM  [nodemon] to restart at any time, enter `rs`
+May 29 07:04:39 PM  [nodemon] watching path(s): *.*
+May 29 07:04:39 PM  [nodemon] watching extensions: js,mjs,json
+May 29 07:04:39 PM  [nodemon] starting `node server.js`
+May 29 07:04:43 PM  (node:78) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+May 29 07:04:43 PM  (Use `node --trace-deprecation ...` to show where the warning was created)
+May 29 07:04:45 PM  Server is listening on http://localhost:mern-career-app.onrender.com
+Jun 1 12:49:27 PM  ==> Using Node version 14.17.0 (default)
+Jun 1 12:49:27 PM  ==> Docs on specifying a Node version: https://render.com/docs/node-version
+Jun 1 12:49:27 PM  ==> Starting service with 'npm start'
+Jun 1 12:49:29 PM  
+Jun 1 12:49:29 PM  > server@1.0.0 start /opt/render/project/src/server
+Jun 1 12:49:29 PM  > nodemon server
+Jun 1 12:49:29 PM  
+Jun 1 12:49:29 PM  [nodemon] 2.0.20
+Jun 1 12:49:29 PM  [nodemon] to restart at any time, enter `rs`
+Jun 1 12:49:29 PM  [nodemon] watching path(s): *.*
+Jun 1 12:49:29 PM  [nodemon] watching extensions: js,mjs,json
+Jun 1 12:49:29 PM  [nodemon] starting `node server.js`
+Jun 1 12:49:33 PM  (node:77) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+Jun 1 12:49:33 PM  (Use `node --trace-deprecation ...` to show where the warning was created)
+Jun 1 12:49:35 PM  Server is listening on http://localhost:mern-career-app.onrender.com
+Jun 1 12:52:46 PM  ==> Using Node version 14.17.0 (default)
+Jun 1 12:52:46 PM  ==> Docs on specifying a Node version: https://render.com/docs/node-version
+Jun 1 12:52:46 PM  ==> Starting service with 'npm start'
+Jun 1 12:52:48 PM  
+Jun 1 12:52:48 PM  > server@1.0.0 start /opt/render/project/src/server
+Jun 1 12:52:48 PM  > nodemon server
+Jun 1 12:52:48 PM  
+Jun 1 12:52:49 PM  [nodemon] 2.0.20
+Jun 1 12:52:49 PM  [nodemon] to restart at any time, enter `rs`
+Jun 1 12:52:49 PM  [nodemon] watching path(s): *.*
+Jun 1 12:52:49 PM  [nodemon] watching extensions: js,mjs,json
+Jun 1 12:52:49 PM  [nodemon] starting `node server.js`
+Jun 1 12:52:52 PM  (node:77) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+Jun 1 12:52:52 PM  (Use `node --trace-deprecation ...` to show where the warning was created)
+Jun 1 12:52:54 PM  Server is listening on http://localhost:mern-career-app.onrender.com
+Jun 1 12:57:15 PM  ==> Using Node version 14.17.0 (default)
+Jun 1 12:57:15 PM  ==> Docs on specifying a Node version: https://render.com/docs/node-version
+Jun 1 12:57:15 PM  ==> Starting service with 'npm start'
+Jun 1 12:57:17 PM  
+Jun 1 12:57:17 PM  > server@1.0.0 start /opt/render/project/src/server
+Jun 1 12:57:17 PM  > nodemon server
+Jun 1 12:57:17 PM  
+Jun 1 12:57:17 PM  [nodemon] 2.0.22
+Jun 1 12:57:17 PM  [nodemon] to restart at any time, enter `rs`
+Jun 1 12:57:17 PM  [nodemon] watching path(s): *.*
+Jun 1 12:57:17 PM  [nodemon] watching extensions: js,mjs,json
+Jun 1 12:57:17 PM  [nodemon] starting `node server.js`
+Jun 1 12:57:21 PM  (node:77) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+Jun 1 12:57:21 PM  (Use `node --trace-deprecation ...` to show where the warning was created)
+Jun 1 12:57:22 PM  Server is listening on http://localhost:mern-career-app.onrender.com
+Jun 1 01:16:26 PM  ==> Using Node version 14.17.0 (default)
+Jun 1 01:16:26 PM  ==> Docs on specifying a Node version: https://render.com/docs/node-version
+Jun 1 01:16:26 PM  ==> Starting service with 'npm start'
+Jun 1 01:16:28 PM  
+Jun 1 01:16:28 PM  > server@1.0.0 start /opt/render/project/src/server
+Jun 1 01:16:28 PM  > nodemon server
+Jun 1 01:16:28 PM  
+Jun 1 01:16:28 PM  [nodemon] 2.0.22
+Jun 1 01:16:28 PM  [nodemon] to restart at any time, enter `rs`
+Jun 1 01:16:28 PM  [nodemon] watching path(s): *.*
+Jun 1 01:16:28 PM  [nodemon] watching extensions: js,mjs,json
+Jun 1 01:16:28 PM  [nodemon] starting `node server.js`
+Jun 1 01:16:33 PM  (node:80) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+Jun 1 01:16:33 PM  (Use `node --trace-deprecation ...` to show where the warning was created)
+Jun 1 01:16:34 PM  Server is listening on http://localhost:mern-career-app.onrender.com
+Jun 1 01:31:21 PM  Your service is live 🎉
+Jun 1 01:31:45 PM  ==> Using Node version 14.17.0 (default)
+Jun 1 01:31:45 PM  ==> Docs on specifying a Node version: https://render.com/docs/node-version
+Jun 1 01:31:45 PM  ==> Starting service with 'npm start'
+Jun 1 01:31:46 PM  
+Jun 1 01:31:46 PM  > server@1.0.0 start /opt/render/project/src/server
+Jun 1 01:31:46 PM  > nodemon server
+Jun 1 01:31:46 PM  
+Jun 1 01:31:47 PM  [nodemon] 2.0.22
+Jun 1 01:31:47 PM  [nodemon] to restart at any time, enter `rs`
+Jun 1 01:31:47 PM  [nodemon] watching path(s): *.*
+Jun 1 01:31:47 PM  [nodemon] watching extensions: js,mjs,json
+Jun 1 01:31:47 PM  [nodemon] starting `node server.js`
+Jun 1 01:31:51 PM  (node:77) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+Jun 1 01:31:51 PM  (Use `node --trace-deprecation ...` to show where the warning was created)
+Jun 1 01:31:53 PM  Server is listening on http://localhost:mern-career-app.onrender.com
+Jun 1 01:42:03 PM  ==> Using Node version 14.17.0 (default)
+Jun 1 01:42:03 PM  ==> Docs on specifying a Node version: https://render.com/docs/node-version
+Jun 1 01:42:03 PM  ==> Starting service with 'npm start'
+Jun 1 01:42:04 PM  
+Jun 1 01:42:04 PM  > server@1.0.0 start /opt/render/project/src/server
+Jun 1 01:42:04 PM  > nodemon server
+Jun 1 01:42:04 PM  
+Jun 1 01:42:04 PM  [nodemon] 2.0.22
+Jun 1 01:42:04 PM  [nodemon] to restart at any time, enter `rs`
+Jun 1 01:42:04 PM  [nodemon] watching path(s): *.*
+Jun 1 01:42:04 PM  [nodemon] watching extensions: js,mjs,json
+Jun 1 01:42:04 PM  [nodemon] starting `node server.js`
+Jun 1 01:42:08 PM  (node:78) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+Jun 1 01:42:08 PM  (Use `node --trace-deprecation ...` to show where the warning was created)
+Jun 1 01:42:10 PM  Server is listening on http://localhost:mern-career-app.onrender.com
+Jun 1 02:01:08 PM  ==> Using Node version 14.17.0 (default)
+Jun 1 02:01:08 PM  ==> Docs on specifying a Node version: https://render.com/docs/node-version
+Jun 1 02:01:08 PM  ==> Starting service with 'npm start'
+Jun 1 02:01:09 PM  
+Jun 1 02:01:09 PM  > server@1.0.0 start /opt/render/project/src/server
+Jun 1 02:01:09 PM  > nodemon server
+Jun 1 02:01:09 PM  
+Jun 1 02:01:10 PM  [nodemon] 2.0.22
+Jun 1 02:01:10 PM  [nodemon] to restart at any time, enter `rs`
+Jun 1 02:01:10 PM  [nodemon] watching path(s): *.*
+Jun 1 02:01:10 PM  [nodemon] watching extensions: js,mjs,json
+Jun 1 02:01:10 PM  [nodemon] starting `node server.js`
+Jun 1 02:01:14 PM  (node:77) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+Jun 1 02:01:14 PM  (Use `node --trace-deprecation ...` to show where the warning was created)
+Jun 1 02:01:15 PM  Server is listening on http://localhost:mern-career-app.onrender.com
+Jun 1 02:44:50 PM  ==> Using Node version 14.17.0 (default)
+Jun 1 02:44:50 PM  ==> Docs on specifying a Node version: https://render.com/docs/node-version
+Jun 1 02:44:50 PM  ==> Starting service with 'npm start'
+Jun 1 02:44:51 PM  
+Jun 1 02:44:51 PM  > server@1.0.0 start /opt/render/project/src/server
+Jun 1 02:44:51 PM  > nodemon server
+Jun 1 02:44:51 PM  
+Jun 1 02:44:52 PM  [nodemon] 2.0.22
+Jun 1 02:44:52 PM  [nodemon] to restart at any time, enter `rs`
+Jun 1 02:44:52 PM  [nodemon] watching path(s): *.*
+Jun 1 02:44:52 PM  [nodemon] watching extensions: js,mjs,json
+Jun 1 02:44:52 PM  [nodemon] starting `node server.js`
+Jun 1 02:44:56 PM  (node:80) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+Jun 1 02:44:56 PM  (Use `node --trace-deprecation ...` to show where the warning was created)
+Jun 1 02:44:58 PM  Server is listening on http://localhost:mern-career-app.onrender.com
+Jun 1 03:57:12 PM  ==> Using Node version 14.17.0 (default)
+Jun 1 03:57:12 PM  ==> Docs on specifying a Node version: https://render.com/docs/node-version
+Jun 1 03:57:12 PM  ==> Starting service with 'npm start'
+Jun 1 03:57:13 PM  
+Jun 1 03:57:13 PM  > server@1.0.0 start /opt/render/project/src/server
+Jun 1 03:57:13 PM  > nodemon server
+Jun 1 03:57:13 PM  
+Jun 1 03:57:14 PM  [nodemon] 2.0.22
+Jun 1 03:57:14 PM  [nodemon] to restart at any time, enter `rs`
+Jun 1 03:57:14 PM  [nodemon] watching path(s): *.*
+Jun 1 03:57:14 PM  [nodemon] watching extensions: js,mjs,json
+Jun 1 03:57:14 PM  [nodemon] starting `node server.js`
+Jun 1 03:57:17 PM  (node:77) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+Jun 1 03:57:17 PM  (Use `node --trace-deprecation ...` to show where the warning was created)
+Jun 1 03:57:19 PM  Server is listening on http://localhost:mern-career-app.onrender.com
